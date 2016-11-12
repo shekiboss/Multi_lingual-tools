@@ -1,7 +1,7 @@
 import os
 import re
 def ff():
-    path='/home/naman/ace-0.9.24/output'
+    path='path_to_ace/ace-0.9.24/output'
     srr=r'_human_dmrs.txt'
     ans_fil=[]
 #get user input for checking in regex.
